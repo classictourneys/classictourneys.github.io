@@ -1,5 +1,5 @@
 # classictourneys.github.io
-This is the official website for Classic Shooter Tourneys. Here you can download and see all the HTML files required for the website. This is the ONLY official website the group will use.
+This is the official website for Classic Shooter Tourneys. Here you can download and see all the HTML files required for the website. This is the ONLY official website the group will use. To use the website you need to zoom out quite a bit.
 
 # Our plan
 This paper is designed to give the developers an overview of what I would like to see appearing on the website. 
